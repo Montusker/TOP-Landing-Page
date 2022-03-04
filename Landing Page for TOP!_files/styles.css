@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+}
+header {
+    background-color: #1F2937;
+    display: flex;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+.header-logo {
+    display: block;
+}
+header p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.header-logo {
+    font-size: 24px;
+    color: #F9FAf8;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
